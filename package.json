@@ -11,5 +11,14 @@
   "dependencies": {
     "express": "^4.17.1",
     "socket.io": "^4.5.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shabbirdudhiya/sketch-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shabbirdudhiya/sketch-/issues"
+  },
+  "homepage": "https://github.com/shabbirdudhiya/sketch-#readme"
 }
